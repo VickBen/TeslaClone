@@ -1,0 +1,12 @@
+.Arrow{
+    /* margin-top:20px; */
+    height:40px;
+    overflow-x:hidden ; 
+    animation: animateDown infinite 1.5s;
+     display: flex;
+    align-items: center;
+    flex-direction: column;
+
+
+
+}
